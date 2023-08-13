@@ -4,7 +4,7 @@
 **happy111/happy111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Umesh Samal](https://www.linkedin.com/in/umesh-samal-922a90b7/), a Technical lead at HCL.
+I am [Umesh Samal](https://www.linkedin.com/in/umesh-samal-922a90b7/),  Technical lead at HCL.
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
